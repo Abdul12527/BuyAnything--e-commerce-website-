@@ -1,4 +1,5 @@
-# Buyanything E-commerce Backend Application ![Java](https://img.shields.io/badge/Language-Java-green)
+# Buyanything E-commerce Backend Application
+![Java](https://img.shields.io/badge/Language-Java-green)
 
 Buyanything E-commerce Backend Application, a Java-based system designed to fulfill basic e-commerce operations. Buyanything supports user registration, sign-in/sign-out, product catalog navigation, adding products to the cart, order submission, and user management.
 
